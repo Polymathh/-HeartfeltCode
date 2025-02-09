@@ -1,6 +1,7 @@
 # LoveLetterJS
 
 A sweet and interactive Valentine's Day e-card created using HTML, CSS, and JavaScript.  Perfect for sending a personalized message to your loved one!
+A charming and engaging Valentine's Day e-card built with HTML, CSS, and JavaScript—ideal for sharing a heartfelt message with your loved one!
 
 ## Features
 
